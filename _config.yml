@@ -2,31 +2,30 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
-# Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: zh-CN
-timezone: ''
+# 1. 网站信息
+title: wefashe个人博客  # 网站标题
+subtitle: '让谁失望，都别让自己失望'  # 网站子标题 
+description: 'wefashe的个人博客, 记录生活中的点点滴滴' # 作者描述
+keywords: 技术,生活,职业
+author: wefashe # 网站作者
+language: zh-CN # 英文en  中文zh-CN
+timezone: 'Asia/Shanghai'  # 时区
 
-# URL
-## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :year/:month/:day/:title/
+# 2. 网站地址
+url: https://wefashe.github.io/  # 博客网站
+permalink: :category-:title/    # 文章链接格式
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: true # 链接中是否去掉'index.html'，false去除
+  trailing_html: true # 链接中是否去掉'.html'，false去除
 
-# Directory
-source_dir: source
-public_dir: public
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
+# 3. 文件目录
+source_dir: source  # 资源文件夹
+public_dir: public  # 静态网页目录
+tag_dir: tags # 标签文件夹
+archive_dir: archives # 归档文件夹
+category_dir: categories  # 分类文件夹
+code_dir: downloads/code  # Include code 文件夹，source_dir 下的子目录
 i18n_dir: :lang
 skip_render:
 
@@ -103,4 +102,10 @@ theme: fluid
 deploy:
   type: git
   repo: https://github.com/wefashe/wefashe.github.io
-  branch: gh-pages
+  branch: main
+
+# 头像设置
+avatar:
+  url: /images/avatar.jpg   # 替换默认图像并在此处设置网址。
+  rounded: true   # 如果为 true，头像将显示为圆形。
+  rotated: false   # 如果为 true，头像将随光标旋转。
