@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'  # 时区
 
 # 2. 网站地址
 url: http://wefashe.us.kg  # 博客网站
-permalink: :category-:title/    # 文章链接格式
+permalink: :layout/:year:month:day:hour:minute:second.html    # 文章链接格式
 permalink_defaults:
 pretty_urls:
   trailing_index: true # 链接中是否去掉'index.html'，false去除
