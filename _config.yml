@@ -12,7 +12,7 @@ language: zh-CN # 英文en  中文zh-CN
 timezone: 'Asia/Shanghai'  # 时区
 
 # 2. 网站地址
-url: https://wefashe.github.io/  # 博客网站
+url: http://wefashe.us.kg  # 博客网站
 permalink: :category-:title/    # 文章链接格式
 permalink_defaults:
 pretty_urls:
