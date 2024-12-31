@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Yuzi's Blog</title><link>https://wefashe.github.io/</link><description>Recent content on Yuzi's Blog</description><image><title>Yuzi's Blog</title><url>https://i.postimg.cc/7hwBy7VS/calcr.png</url><link>https://i.postimg.cc/7hwBy7VS/calcr.png</link></image><generator>Hugo -- 0.140.1</generator><language>zh</language><lastBuildDate>Fri, 20 Dec 2024 11:17:52 +0000</lastBuildDate><atom:link href="https://wefashe.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Docker 安装 Oracle 和 Nginx</title><link>https://wefashe.github.io/post/1734664672/</link><pubDate>Fri, 20 Dec 2024 11:17:52 +0000</pubDate><guid>https://wefashe.github.io/post/1734664672/</guid><description>&lt;p>&lt;strong>前言&lt;/strong>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Yuzi's Blog</title><link>https://wefashe.github.io/</link><description>Recent content on Yuzi's Blog</description><image><title>Yuzi's Blog</title><url>https://i.postimg.cc/7hwBy7VS/calcr.png</url><link>https://i.postimg.cc/7hwBy7VS/calcr.png</link></image><generator>Hugo -- 0.140.1</generator><language>zh</language><lastBuildDate>Fri, 20 Dec 2024 11:17:52 +0000</lastBuildDate><atom:link href="https://wefashe.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Docker 安装 Oracle 和 Nginx</title><link>https://wefashe.github.io/posts/1734664672/</link><pubDate>Fri, 20 Dec 2024 11:17:52 +0000</pubDate><guid>https://wefashe.github.io/posts/1734664672/</guid><description>&lt;p>&lt;strong>前言&lt;/strong>&lt;/p>
 &lt;p>&lt;code>Linux&lt;/code> 安装 &lt;code>Oracle&lt;/code> 太麻烦了，还需要去官网&lt;a href="http://www.oracle.com/technetwork/indexes/downloads/index.html#database">下载&lt;/a>，官网下载需要登录 &lt;code>Oracle&lt;/code> 账号，下载后还需要上传安装，而使用 &lt;code>Docker&lt;/code> 安装更简单，下面就是整个安装过程。&lt;/p>
 &lt;h2 id="更新-yum-源">更新 Yum 源&lt;/h2>
 &lt;div class="highlight">&lt;div class="chroma">
@@ -46,10 +46,10 @@
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;h2 id="docker的安装">Docker的安装&lt;/h2>
-&lt;p>&lt;strong>安装Docker&lt;/strong>&lt;/p></description></item><item><title>杭州购房指南</title><link>https://wefashe.github.io/post/1733714272/</link><pubDate>Mon, 09 Dec 2024 11:17:52 +0000</pubDate><guid>https://wefashe.github.io/post/1733714272/</guid><description>&lt;blockquote>
+&lt;p>&lt;strong>安装Docker&lt;/strong>&lt;/p></description></item><item><title>杭州购房指南</title><link>https://wefashe.github.io/posts/1733714272/</link><pubDate>Mon, 09 Dec 2024 11:17:52 +0000</pubDate><guid>https://wefashe.github.io/posts/1733714272/</guid><description>&lt;blockquote>
 &lt;p>本文分享自微信公众号《护网专题第一篇-Java内存马（下）》，作者：零鉴科技&lt;/p>
 &lt;/blockquote>
-&lt;p>Hexo Docker环境使用篇&lt;/p></description></item><item><title>中文技术文档的写作规范</title><link>https://wefashe.github.io/post/1733455072/</link><pubDate>Fri, 06 Dec 2024 11:17:52 +0000</pubDate><guid>https://wefashe.github.io/post/1733455072/</guid><description>&lt;blockquote>
+&lt;p>Hexo Docker环境使用篇&lt;/p></description></item><item><title>中文技术文档的写作规范</title><link>https://wefashe.github.io/posts/1733455072/</link><pubDate>Fri, 06 Dec 2024 11:17:52 +0000</pubDate><guid>https://wefashe.github.io/posts/1733455072/</guid><description>&lt;blockquote>
 &lt;p>本文分享自《&lt;a href="https://blog.17lai.site/docs/tech-write-note/">中文技术文档的写作规范&lt;/a>》，作者：&lt;a href="https://blog.17lai.site/about/">夜法之书&lt;/a>
 技术文档建议规范，献给广大技术人员范&lt;/p>
 &lt;/blockquote>
@@ -84,7 +84,7 @@
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;h3 id="原则">原则&lt;/h3>
-&lt;p>&lt;strong>1、一级标题下，不能直接出现三级标题。&lt;/strong>&lt;/p></description></item><item><title>每日速记</title><link>https://wefashe.github.io/post/1733195872/</link><pubDate>Tue, 03 Dec 2024 11:17:52 +0000</pubDate><guid>https://wefashe.github.io/post/1733195872/</guid><description>&lt;h2 id="2024-12-19">2024-12-19&lt;/h2>
+&lt;p>&lt;strong>1、一级标题下，不能直接出现三级标题。&lt;/strong>&lt;/p></description></item><item><title>每日速记</title><link>https://wefashe.github.io/posts/1733195872/</link><pubDate>Tue, 03 Dec 2024 11:17:52 +0000</pubDate><guid>https://wefashe.github.io/posts/1733195872/</guid><description>&lt;h2 id="2024-12-19">2024-12-19&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://docs.github.com/zh/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain">管理 GitHub Pages 站点的自定义域&lt;/a>: 含有GitHub Pages 的 IP 地址&lt;/li>
 &lt;li>&lt;a href="https://www.cloudflare-cn.com/ips/">cloudflare IP 地址范围&lt;/a>&lt;/li>
@@ -99,7 +99,7 @@
 &lt;p>&lt;img alt="alt text" loading="lazy" src="https://i-blog.csdnimg.cn/blog_migrate/79ddf1a194797f26e2ca486409f9bc13.png">&lt;/p>
 &lt;ul>
 &lt;li>&lt;img alt="alt text" loading="lazy" src="https://i-blog.csdnimg.cn/blog_migrate/31f722c76171f782787b66f6d6b94e85.png">&lt;/li>
-&lt;/ul></description></item><item><title>Hello World</title><link>https://wefashe.github.io/post/1733109472/</link><pubDate>Mon, 02 Dec 2024 11:17:52 +0000</pubDate><guid>https://wefashe.github.io/post/1733109472/</guid><description>&lt;p>Welcome to &lt;a href="https://hexo.io/">Hexo&lt;/a>! This is your very first post. Check &lt;a href="https://hexo.io/docs/">documentation&lt;/a> for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href="https://hexo.io/docs/troubleshooting.html">troubleshooting&lt;/a> or you can ask me on &lt;a href="https://github.com/hexojs/hexo/issues">GitHub&lt;/a>.&lt;/p>
+&lt;/ul></description></item><item><title>Hello World</title><link>https://wefashe.github.io/posts/1733109472/</link><pubDate>Mon, 02 Dec 2024 11:17:52 +0000</pubDate><guid>https://wefashe.github.io/posts/1733109472/</guid><description>&lt;p>Welcome to &lt;a href="https://hexo.io/">Hexo&lt;/a>! This is your very first post. Check &lt;a href="https://hexo.io/docs/">documentation&lt;/a> for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href="https://hexo.io/docs/troubleshooting.html">troubleshooting&lt;/a> or you can ask me on &lt;a href="https://github.com/hexojs/hexo/issues">GitHub&lt;/a>.&lt;/p>
 &lt;h2 id="quick-start">Quick Start&lt;/h2>
 &lt;h3 id="create-a-new-post">Create a new post&lt;/h3>
 &lt;div class="highlight">&lt;div class="chroma">
